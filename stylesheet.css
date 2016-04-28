@@ -1,0 +1,49 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+#container {
+	width: 990px;
+	margin: 10px auto;
+}
+
+header {
+background-color: white;
+min-height: 80px;
+}
+header img {
+	text-align: center;
+	clear: none;
+	}
+#main {
+background-color: #CCC;
+min-height: 300px;
+float: clear;
+}
+p {
+font-family: helvetica;
+text-align: left;
+text-indent: 2em;
+
+
+}
+
+
+
+#main img {
+	height: 300px;
+	width: 175px;
+	display: right;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
+
+
+}
+footer {
+background-color: #ccc;
+min-height: 60px;
+}
+
